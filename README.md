@@ -1,4 +1,4 @@
-# Título do projeto
+# InstaBot
 
 Simples bot para Instagram usando Selenium
 
